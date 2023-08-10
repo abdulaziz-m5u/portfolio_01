@@ -1,0 +1,38 @@
+Color :
+primary-color : #5361FF
+secondary-color : #FAFAFF
+text-color: #697477
+accent-color: #2A3B47
+
+Copy :
+# hero section
+HELLO.
+
+# about section
+- About
+- I'am John Doe
+- Web designer
+- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci consectetur, architecto quas fugiat, iste inventore facere repellendus delectus id, vitae blanditiis.
+
+# skills section
+- Skills 
+- Development
+- Html, Css, Javascript, Scss, React, Vue
+- Design 
+- Figma, Adobe XD, Photoshop
+
+# portfolio section
+- Portfolio
+
+# contact section
+- Cotact
+- Email : johndoe@example.com
+- Phone : +081888777444
+- Address : Lombok, Indonesia
+
+# footer section
+- John DOE
+- EXPLORE
+- FOLLOW
+- I'm John Doe and this is my personal website
+- Home, About, Skills, Portfolio, Contact
